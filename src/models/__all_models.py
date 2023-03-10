@@ -1,0 +1,1 @@
+from src.models.cadastro_model import LoginModel
